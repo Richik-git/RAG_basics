@@ -1,3 +1,0 @@
-2026-08-17 04:18:25,354 - INFO - Generating 2 sub-queries for main query: How does NotebookLM retrieve relevant information from uploaded documents?
-2026-08-17 04:18:26,896 - INFO - Generated sub-queries: ['What are the algorithms used by NotebookLM for document retrieval?', 'How does NotebookLM process and index uploaded documents for search?']
-2026-08-17 04:18:27,760 - INFO - Retrieved documents per sub_query: [['When a user uploads a document to NotebookLM, the ', 'rather than simple keyword matching. The vectors a', 'How NotebookLM is Performing RAG Under the Hood\n1.'], ['When a user uploads a document to NotebookLM, the ', 'How NotebookLM is Performing RAG Under the Hood\n1.', 'model can reference the specific chunks it used to']]
